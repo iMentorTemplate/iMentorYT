@@ -8,7 +8,8 @@ Hi, I'm xyz and this is my Cyber Security Portfolio. I am currently seeking a ch
 # Project Overview 
 |     Project     |                 Skills                |     Tools       |      Link       |
 | --------------- | ------------------------------------- | --------------- | --------------- |
-| Building a SIEM | Log management, Security Archtecture  | LogRhythm, Azure| Project link    |
+| Building a SIEM | Log management, Security Archtecture  | LogRhythm, Azure| [SIEM]([https://github.com/your-username/repository-name](https://github.com/iMentorYT/SIEM/tree/main))
+   |
 |                 |                                       |                 |                 |
 |                 |                                       |                 |                 |
 
