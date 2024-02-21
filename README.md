@@ -9,14 +9,14 @@ Hi, I'm xyz and this is my Cyber Security Portfolio. I am currently seeking a ch
 |     Project     |                 Skills                |     Tools       |      Link       |
 | --------------- | ------------------------------------- | --------------- | --------------- |
 | Building a SIEM | Log management, Security Archtecture  | LogRhythm, Azure| Project link    |
-| Row 2, Col 1    | Row 2, Col 2                          | Row 2, Col 3    | Row 2, Col 4    |
-| Row 3, Col 1    | Row 3, Col 2                          | Row 3, Col 3    | Row 3, Col 4    |
+|                 |                                       |                 |                 |
+|                 |                                       |                 |                 |
 
 
 # Certifications 
-List our your certifications and/or link to them
+List our your certifications and/or link to them. Also include the ones you plan on doing!
 
-|     Certification     |                 Date completed        |     Link       |
-| --------------------  | ------------------------------------- | ---------------| 
-| CompTIA Security+     |                   xx/xx/xx            |     xxx        | 
+|     Certification     |               Completed?               |     Link       |
+| --------------------  | -------------------------------------- | ---------------| 
+| CompTIA Security+     |                xx/xx/xx                |     xxx        | 
 
