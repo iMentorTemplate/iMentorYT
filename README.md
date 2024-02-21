@@ -1,4 +1,4 @@
-## [Your Name's] Porfolio
+## [Your Name] Porfolio
 
 # Portfolio
 
@@ -14,5 +14,9 @@ Hi, I'm xyz and this is my Cyber Security Portfolio. I am currently seeking a ch
 
 
 # Certifications 
+List our your certifications and/or link to them
 
+|     Certification     |                 Date completed        |     Link       |
+| --------------------  | ------------------------------------- | ---------------| 
+| CompTIA Security+     |                   xx/xx/xx            |     xxx        | 
 
