@@ -1,4 +1,4 @@
-## [Your Name]'s Porfolio
+## [Your Name's] Porfolio
 
 # Portfolio
 
@@ -13,6 +13,6 @@ Hi, I'm xyz and this is my Cyber Security Portfolio. I am currently seeking a ch
 | Row 3, Col 1    | Row 3, Col 2                          | Row 3, Col 3    | Row 3, Col 4    |
 
 
-Certifications 
+# Certifications 
 
 
